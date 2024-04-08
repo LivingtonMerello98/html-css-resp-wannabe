@@ -5,6 +5,12 @@
     .container{
         width: 100%
     }
+    /*nesting media query Bonus*/
+    @media screen and (max-width: 1160px){
+        .container{
+            width: 100%;
+        }
+    }
 }
 
 /*smartphone 480px*/
